@@ -1,0 +1,23 @@
+#title {
+  font-family: 'Raleway';
+  color: #6e6e6e;
+  text-align: center;
+  vertical-align: middle;
+  margin: auto;
+  padding: 100px;
+}
+#title h1, h3 {
+  margin: 0;
+}
+#title p {
+  font-family: 'Nanum Gothic';
+  padding: 30px;
+}
+
+body {
+  height: 100vh;
+  background-image: url('main.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
